@@ -1,0 +1,9 @@
+Building Pagodacoin
+
+See doc/readme-qt.rst for instructions on building Pagodacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pagodacoin.
+
+See doc/build-*.txt for instructions on building pagodacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pagodacoin.
